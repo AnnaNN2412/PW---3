@@ -1,0 +1,22 @@
+code {
+    border-color: lightblue;
+    border-style: solid;
+    margin: 5px;
+    padding: 5px 20px;
+}
+
+p {
+    font-weight: bold;
+    margin: 5px;
+    font-size: 1.5rem;
+}
+
+div {
+    display: grid;
+    place-items: center;
+    border-color: lightblue;
+    border-style: solid;
+    border-radius: 10%;
+    width: 400px;
+    margin: auto;
+}

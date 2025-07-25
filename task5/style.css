@@ -1,0 +1,51 @@
+body {
+    background-color: lightcyan;
+}
+
+label {
+    font-size: 40px;
+    color: #00b3ff;
+}
+
+input {
+    text-align: center;
+    width: 10rem;
+    color: #00b3ff;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00b3ff;
+    border-radius: 5%;
+}
+
+input::placeholder {
+    color: #00b3ff;
+
+}
+
+input:focus {
+    outline: none;
+}
+
+#textField {
+    color: #00b3ff;
+}
+
+button {
+    color: #00b3ff;
+    background-color: white;
+    padding: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00b3ff;
+    border-radius: 5%;
+}
+
+button:hover {
+    color: white;
+    background-color: #00b3ff;
+}
+
+p {
+    color: #00b3ff;
+}

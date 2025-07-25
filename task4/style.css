@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2rem;
+    color: beige;
+    background-color: cadetblue;
+    padding: 50px 50px;
+    margin: auto;
+}
