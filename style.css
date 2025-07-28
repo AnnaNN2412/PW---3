@@ -1,0 +1,31 @@
+body {
+    background-color: lightcyan;
+}
+
+nav {
+    background-color: #087078;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li {
+    font-size: 30px;
+    margin: 20px 0px;
+}
+
+a {
+    color: #ccfcff;
+    text-decoration: none;
+    padding: 20px;
+    border: 1px solid #ccfcff;
+}
+
+a:hover {
+    background-color: #ccfcff;
+    color: #0e006b;
+}
